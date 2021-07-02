@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 featured_image = ""
 omit_header_text = true
 title = "contact"
